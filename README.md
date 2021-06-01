@@ -13,7 +13,15 @@ Passcode: 828751
 
 **Projektide lõpptähtaeg: 21.05.2021 - kogu kood pull requestina esitatud.**
 
-3. Järelarvestus - 04.06.2021 kell 10:15-11:45
+3. Järelarvestus - 04.06.2021 kell 10:00-11:00
+Topic: Eesrakenduste järelarvestus
+Time: Jun 4, 2021 10:00 AM Helsinki
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/84231230402?pwd=c1Uwa1ROR25MdEN6N2pYYVpuMkNJQT09
+
+Meeting ID: 842 3123 0402
+Passcode: 923177
 
 
 
