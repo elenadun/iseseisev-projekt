@@ -1,0 +1,136 @@
+  
+  body {
+    background: pink;
+  }
+
+  
+  h1 {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .roww {
+    float: left;
+  }
+  
+  .cell {
+    float: left;
+    width: 25px;
+    height: 25px;
+    border: 1px solid lightgray;
+    position: relative;
+    color: black;
+  }
+  
+  
+  .btn-container {
+    clear: both;
+    padding-top: 10px;
+    width: 512px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .btn {
+    width: 150px;
+    float: left;
+    padding: 6px;
+    margin: 6px 6px;
+    cursor: pointer;
+  }
+  
+  .btn p {
+    padding: 0 !important;
+    margin: 0 !important;
+    text-align: center;
+  }
+  
+  .button {
+    background-color: white;
+    color: black;
+  }
+  
+  .selected {
+    box-shadow: 0 0 6px white;
+    color: #000000;
+  }
+  
+  .kitty-red-bg{
+    background-color: #ff0000;
+  }
+  
+  .kitty-white-bg{
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .kitty-black-bg{
+    background-color: #000000;
+  }
+  
+  .heart-red-bg{
+    background-color: #ff0000;
+  }
+  
+  .heart-white-bg{
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .heart-black-bg{
+    background-color: #000000;
+  }
+
+  .watermelon-white-bg{
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+  .watermelon-red-bg{
+      background-color: #ff0000;
+  }
+
+  .watermelon-black-bg{
+      background-color: #000000;
+  }
+
+  .watermelon-pink-bg{
+      background-color: pink;
+  }
+
+  .watermelon-green-bg{
+      background-color: greenyellow;
+  }
+
+  .watermelon-megagreen-bg{
+      background-color: green;
+  }
+
+  
+  .ice-lpink-bg{
+    background-color: #faadd7;
+  }
+  
+  .ice-dpink-bg{
+    background-color: #d2007f;
+  }
+  
+  .ice-yellow-bg{
+    background-color: #fcbb00;
+  }
+  
+  .ice-black-bg{
+    background-color: #000000;
+  }
+  
+  .ice-white-bg{
+    background-color: #ffffff;
+    color: #000000;
+  
+  }
+  .hide-copy p {
+    display: none;
+}
+
+
+
