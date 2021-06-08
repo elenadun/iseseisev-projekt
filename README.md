@@ -58,3 +58,14 @@ Rakenduses võib kasutada teiste autorite koodi, aga see peab olema viidatud. Ü
 # Esitlus
 * Igale grupile on aega 15 minutit (6 minutit rakenduse esitlus, 6 minutit koodi esitlus, 3 minutit küsimused)
 * Esitama peavad grupiliikmed ühisel ajal. 
+
+
+
+PIXEL ART mäng ehk ruutude järgi joonistamise mäng
+Autor: Elena Dunajeva
+
+Mängija valib neljast joonistustest ühe ja hakkab pildi järgi sega joonistama. Numbrid ruurudtikus aitavad õigesti värv leida. Mängijal on selleks aega üks tund. Mängija saab kontrollida oma tuleust ning vajadusel ka tühistada seda.
+![image](https://user-images.githubusercontent.com/55079917/121225938-af7e4300-c892-11eb-9d7d-0c89abf5884d.png)
+![image](https://user-images.githubusercontent.com/55079917/121226036-c91f8a80-c892-11eb-8a6c-cf337adbabe1.png)
+
+
